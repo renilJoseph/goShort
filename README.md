@@ -1,3 +1,1 @@
-# goShort
-
-#### A url shortner in go.
+# goShort: #### A url shortner in go.
